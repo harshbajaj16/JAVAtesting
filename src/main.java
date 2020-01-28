@@ -17,4 +17,4 @@ System.out.println("A="+a+" and B="+b+"\n"+"Sum is " +c +"\n"+ "subtract is "
 
 }     //changes done by harsh after adding new repo
 //changes done by harsh after adding new repo with GUI
-//new changes 28-jan-2020
+//new changes 28-jan-2020 1
