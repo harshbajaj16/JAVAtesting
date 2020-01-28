@@ -12,7 +12,7 @@ public class main {
 System.out.println("A="+a+" and B="+b+"\n"+"Sum is " +c +"\n"+ "subtract is "
 		+e +"\n"+"multiply is "+d+"\n"+"Division is "+f );
 
-System.out.println("Hello testing" );
+
 	}
 
 }     //changes done by harsh after adding new repo
